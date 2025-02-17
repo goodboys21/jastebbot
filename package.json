@@ -1,0 +1,14 @@
+{
+  "name": "bot-jasteb",
+  "version": "1.0.0",
+  "description": "Bot Telegram untuk menambahkan email ke web Jasteb",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "dotenv": "^16.0.3",
+    "axios": "^1.3.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
